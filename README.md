@@ -1,6 +1,6 @@
 ## Just a beginner 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/dandarks">
   <img height="180em" width="430em" float="left" src="https://github-readme-stats.vercel.app/api?username=dandarks&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="430em" float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandarks&layout=compact&langs_count=7&theme=dracula"/>
